@@ -1,0 +1,10 @@
+C:\Users\MONSTERMC\Downloads\Lazy-Downloader-master\Lazy-Downloader-master\Lazy Downloader\obj\Debug\Lazy_Downloader.Form1.resources
+C:\Users\MONSTERMC\Downloads\Lazy-Downloader-master\Lazy-Downloader-master\Lazy Downloader\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Downloads\Lazy-Downloader-master\Lazy-Downloader-master\Lazy Downloader\obj\Debug\Lazy Downloader.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\Lazy-Downloader-master\Lazy-Downloader-master\Lazy Downloader\obj\Debug\Lazy Downloader.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\Lazy-Downloader-master\Lazy-Downloader-master\Lazy Downloader\obj\Debug\LazyDownloader.exe
+C:\Users\MONSTERMC\Downloads\Lazy-Downloader-master\Lazy-Downloader-master\Lazy Downloader\obj\Debug\LazyDownloader.pdb
+C:\Users\MONSTERMC\Downloads\Lazy-Downloader-master\Lazy-Downloader-master\Lazy Downloader\bin\Debug\LazyDownloader.exe.config
+C:\Users\MONSTERMC\Downloads\Lazy-Downloader-master\Lazy-Downloader-master\Lazy Downloader\bin\Debug\LazyDownloader.exe
+C:\Users\MONSTERMC\Downloads\Lazy-Downloader-master\Lazy-Downloader-master\Lazy Downloader\bin\Debug\LazyDownloader.pdb
+C:\Users\MONSTERMC\Downloads\Lazy-Downloader-master\Lazy-Downloader-master\Lazy Downloader\obj\Debug\Lazy Downloader.vbproj.AssemblyReference.cache
